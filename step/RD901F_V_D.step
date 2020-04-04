@@ -5,14 +5,14 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ (''),
+/* description */ ('Alpha RD901F 9 mm vertical potentiometer, D shaft. License: CC BY 4.0.'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'C:/DEV/Private/ecad-models/step/RD901F_V_D.step',
+/* name */ 'C:/DEV/ecad-models/step/RD901F_V_D.step',
 /* time_stamp */ '2020-04-04T21:39:22+02:00',
-/* author */ (''),
-/* organization */ (''),
+/* author */ ('HSBallina'),
+/* organization */ ('Bad Pixel'),
 /* preprocessor_version */ 'ST-DEVELOPER v18',
 /* originating_system */ 'Autodesk Translation Framework v8.12.0.6',
 /* authorisation */ '');
