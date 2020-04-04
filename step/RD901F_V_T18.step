@@ -5,11 +5,11 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ ('Alpha RD901F 9 mm vertical potentiometer, T18 shaft. License: CC BY 4.0.'),
+/* description */ ('Alpha RD901F 9 mm vertical potentiometer, T18 shaft. License: CC BY-SA 4.0.'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'C:/DEV/Private/ecad-models/step/RD901F_T18.step',
+/* name */ 'C:/DEV/ecad-models/step/RD901F_T18.step',
 /* time_stamp */ '2020-04-04T21:09:45+02:00',
 /* author */ ('HSBallina'),
 /* organization */ ('Bad Pixel'),
