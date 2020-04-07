@@ -1,6 +1,6 @@
 # ECAD Models
 
-Random 3D models and such for ECAD.
+These are footprints and models I've done for using in KiCad. You're free to use them as long as you adhere to the license terms below.
 
 ## License
 
