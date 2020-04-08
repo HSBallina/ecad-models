@@ -5,14 +5,14 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ (''),
+/* description */ ('Song Huei R0904N tall vertical potentiometer (Shaft centered). License: CC BY-SA 4.0.'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'C:/DEV/Private/ecad-models/step/R0904N_tall.step',
+/* name */ 'R0904N_tall.step',
 /* time_stamp */ '2020-04-08T11:06:29+02:00',
-/* author */ (''),
-/* organization */ (''),
+/* author */ ('HSBallina'),
+/* organization */ ('Bad Pixel'),
 /* preprocessor_version */ 'ST-DEVELOPER v18',
 /* originating_system */ 'Autodesk Translation Framework v8.12.0.6',
 /* authorisation */ '');
