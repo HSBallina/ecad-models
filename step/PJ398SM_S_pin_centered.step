@@ -5,11 +5,11 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ ('PJ398SM 3.5 mm audio jack. License: CC BY-SA 4.0.'),
+/* description */ ('PJ398SM 3.5 mm audio jack (S pin centered). License: CC BY-SA 4.0.'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'C:/DEV/ecad-models/step/PJ398SM.step',
+/* name */ 'PJ398SM_S_pin_centered.step',
 /* time_stamp */ '2020-04-04T01:29:29+02:00',
 /* author */ ('HSBallina'),
 /* organization */ ('Bad Pixel'),
