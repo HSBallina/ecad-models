@@ -2,6 +2,9 @@
 
 These are footprints and models I've done for using in KiCad.
 
+![Image of 3D models](./png/KiCad.png "KiCad models")
+
+
 ## License and stuffs
 
 Anything found in this repository is licensed under CC BY-SA 4.0. Read the fineprint here: [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
