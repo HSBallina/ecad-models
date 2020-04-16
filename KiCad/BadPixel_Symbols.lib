@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF AudioJack J 0 20 Y Y 1 F N
 F0 "J" -200 150 50 H V R CNN
 F1 "AudioJack" -200 50 50 H V R CNN
-F2 "BadPixel_Parts:Jack_3.5mm_PJ398SM" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Desc" -200 -50 50 H I R CNN "Desc"
 $FPLIST
