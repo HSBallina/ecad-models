@@ -1,4 +1,4 @@
-(module Trimmer_Potentiometer_Bourns_PV36W_PV36X (layer F.Cu) (tedit 5E95987B)
+(module Trimmer_Potentiometer_Bourns_PV36W_PV36X (layer F.Cu) (tedit 5E9CBDF2)
   (descr "PV36W / PV36Z")
   (tags "Variable Resistor Potentiometer Trimmer")
   (fp_text reference VR** (at -3.175 -4.953 90) (layer F.SilkS)
@@ -23,9 +23,4 @@
   (pad 1 thru_hole circle (at 0 2.54) (size 1.3 1.3) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 1.3 1.3) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 -2.54) (size 1.3 1.3) (drill 0.8) (layers *.Cu *.Mask))
-  (model C:/DEV/Private/ecad-models/step/PV36W_trimmer_pot.step
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
