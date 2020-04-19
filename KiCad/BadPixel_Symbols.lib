@@ -1,14 +1,13 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# AudioJack
+# AudioJack_TS
 #
-DEF AudioJack J 0 20 Y Y 1 F N
+DEF AudioJack_TS J 0 20 Y Y 1 F N
 F0 "J" -200 150 50 H V R CNN
-F1 "AudioJack" -200 50 50 H V R CNN
-F2 "" 0 0 50 H I C CNN
+F1 "AudioJack_TS" -200 50 50 H V R CNN
+F2 "BadPixel_Footprints:Jack_3.5mm_PJ398SM" 0 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "Desc" -200 -50 50 H I R CNN "Desc"
 $FPLIST
  Jack*
 $ENDFPLIST
@@ -27,7 +26,7 @@ ENDDEF
 DEF R_POT RV 0 40 Y N 1 F N
 F0 "RV" -175 0 50 V V C CNN
 F1 "R_POT" -100 0 50 V V C CNN
-F2 "BadPixel_Parts:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  Potentiometer*
