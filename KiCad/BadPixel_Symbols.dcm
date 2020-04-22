@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AudioJack_TS
+D TS Audio jack
+K TS audio jack
+$ENDCMP
+#
+$CMP R_POT
+D Potentiometer
+K potentiometer variable resistance
+$ENDCMP
+#
+$CMP R_POT_TRIM
+D Trimmer Potentiometer
+K trimmer potentiometer variable restistance
+$ENDCMP
+#
+#End Doc Library
