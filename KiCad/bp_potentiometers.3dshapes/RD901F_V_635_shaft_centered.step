@@ -9,7 +9,7 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'RD901F_V_635_shaft_centered.step',
+/* name */ 'bp_potentiometers.3dshapes/RD901F_V_635_shaft_centered.step',
 /* time_stamp */ '2020-04-08T22:27:35+02:00',
 /* author */ ('HSBallina'),
 /* organization */ ('Bad Pixel'),
