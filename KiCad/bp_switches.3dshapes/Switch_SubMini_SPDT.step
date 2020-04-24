@@ -9,7 +9,7 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Switch_SubMini_SPDT.step',
+/* name */ 'bp_switches.3dshapes/Switch_SubMini_SPDT.step',
 /* time_stamp */ '2020-04-08T23:27:01+02:00',
 /* author */ ('HSBallina'),
 /* organization */ ('Bad Pixel'),
