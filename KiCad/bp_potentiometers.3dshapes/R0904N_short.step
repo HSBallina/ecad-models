@@ -9,7 +9,7 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'R0904N_short.step',
+/* name */ 'bp_potentiometers.3dshapes/R0904N_short.step',
 /* time_stamp */ '2020-04-08T11:46:23+02:00',
 /* author */ ('HSBallina'),
 /* organization */ ('Bad Pixel'),
