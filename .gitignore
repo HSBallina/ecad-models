@@ -1,3 +1,6 @@
 ## KiCad
 *.bck
 *.bak
+
+## DipTrace
+DipTrace/*.lib~
