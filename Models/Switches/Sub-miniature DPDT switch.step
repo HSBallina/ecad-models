@@ -5,11 +5,11 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ (''),
+/* description */ ('Sub-miniature DPDT switch (Dailywell 2MD3T1B1M2QES) License: CC BY-SA 4.0.'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Sub-miniature DPDT switch (Dailywell 2MD3T1B1M2QES)',
+/* name */ 'Sub-miniature DPDT switch.step',
 /* time_stamp */ '2021-02-19T00:15:00+01:00',
 /* author */ ('hakan@badpixel.se'),
 /* organization */ ('Bad Pixel'),
