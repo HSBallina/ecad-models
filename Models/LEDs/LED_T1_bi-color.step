@@ -5,11 +5,11 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ ('LED T1 bi-color common cathodeLicense: CC BY-SA 4.0.'),
+/* description */ ('LED T1 bi-color (common cathode). License: CC BY-SA 4.0.'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'LED T1 bi-color.step',
+/* name */ 'LED_T1_bi-color.step',
 /* time_stamp */ '2021-02-20T23:44:49+01:00',
 /* author */ ('hakan@badpixel.se'),
 /* organization */ ('Bad Pixel'),
