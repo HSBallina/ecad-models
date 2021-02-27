@@ -5,14 +5,13 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ ('Micro USB B Receptable. License: CC BY-SA 4.0.'),
+/* description */ ('Micro USB B Receptable (MRUMRBFTKY-30U). License: CC BY-SA 4.0.'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 
-'bp_connectors.3dshapes/Micro_USB_B_Recep.step',
+/* name */ 'Micro_USB_B_Recep.step',
 /* time_stamp */ '2020-06-26T18:21:50+02:00',
-/* author */ ('HSBallina'),
+/* author */ ('hakan@badpixel.se'),
 /* organization */ ('Bad Pixel'),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
 /* originating_system */ 'Autodesk Translation Framework v9.3.0.1241',
