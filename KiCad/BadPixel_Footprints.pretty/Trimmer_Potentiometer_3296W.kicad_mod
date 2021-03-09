@@ -1,8 +1,8 @@
-(module Trimmer_Potentiometer_3296W (layer F.Cu) (tedit 5E9CC8DC)
+(module Trimmer_Potentiometer_3296W (layer F.Cu) (tedit 5ED0317E)
   (descr "PV36W / PV36Z")
   (tags "Variable Resistor Potentiometer Trimmer")
-  (fp_text reference VR** (at -3.175 -4.953 90) (layer F.SilkS)
-    (effects (font (size 0.8 0.8) (thickness 0.1)) (justify right))
+  (fp_text reference VR** (at -3.175 -4.953 90 unlocked) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)) (justify right))
   )
   (fp_text value % (at -1.651 -4.318 90) (layer F.SilkS) hide
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify right))
