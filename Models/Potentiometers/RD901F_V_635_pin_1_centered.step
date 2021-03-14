@@ -9,9 +9,9 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'bp_potentiometers.3dshapes/RD901F_V_635_pin_1_centered.step',
+/* name */ 'RD901F_V_635_pin_1_centered.step',
 /* time_stamp */ '2020-04-07T20:38:18+02:00',
-/* author */ ('HSBallina'),
+/* author */ ('hakan@badpixel.se'),
 /* organization */ ('Bad Pixel'),
 /* preprocessor_version */ 'ST-DEVELOPER v18',
 /* originating_system */ 'Autodesk Translation Framework v8.12.0.6',
