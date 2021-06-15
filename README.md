@@ -1,13 +1,13 @@
-# ECAD Models
+# ECAD Models (and symbols....and footprints)
 
-Random KiCad libraries (symbols, footprints and models) I've created for using in my projects.
+Random libraries (symbols, footprints and models) I've created for using in my projects. Symbols and footprints are tested KiCad and DipTrace, but can probably be imported into other programs as well. The models should work in any program that accept SCAD format files. 
 
 ![Image of 3D models](./png/KiCad.png "KiCad models")
 
 
 ## Usage
 
-For now you can clone the repository and add the contents to where you have your KiCad libraries. Pointing to the repo directly from within KiCad should work, but is not tested yet.
+For now you can clone the repository and add the contents to where you have your KiCad libraries. Pointing to the repo directly from within KiCad should work, but is not tested yet. DipTrace libraries can be opened directly
 
 
 ## License and stuffs
