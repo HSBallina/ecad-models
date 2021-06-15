@@ -1,6 +1,6 @@
 # ECAD Models (and symbols....and footprints)
 
-Random libraries (symbols, footprints and models) I've created for using in my projects. Symbols and footprints are tested KiCad and DipTrace, but can probably be imported into other programs as well. The models should work in any program that accept SCAD format files. 
+Random libraries (symbols, footprints and models) I've created for using in my projects. Symbols and footprints are tested KiCad and DipTrace, but can probably be imported into other programs as well. The models should work in any program that accept STEP format files. 
 
 ![Image of 3D models](./png/KiCad.png "KiCad models")
 
